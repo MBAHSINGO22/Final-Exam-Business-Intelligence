@@ -97,12 +97,6 @@ Normalisasi dilakukan menggunakan:
 
 **Min-Max Scaling**
 
-Formula:
-
-[
-X' = \frac{X - X_{min}}{X_{max} - X_{min}}
-]
-
 Sehingga seluruh fitur numerik berada pada rentang 0–1.
 
 ### 5. Validasi Dataset
@@ -225,9 +219,3 @@ Beberapa pengembangan yang dapat dilakukan:
 **Eugenius Kriswinar Adi Cahya**
 
 Program Studi Informatika
-
----
-
-## License
-
-Proyek ini dibuat untuk tujuan pembelajaran, penelitian, dan pengembangan analisis data sosial-ekonomi.
